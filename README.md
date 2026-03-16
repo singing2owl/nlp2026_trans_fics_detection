@@ -1,5 +1,5 @@
 # Original or Translated
-## Translated Fanfiction Work Detection Based on Ficbook.group Data (a Binary Classification Task)
+## Translated Text Detection Based on Ficbook.group Data
 ### Authors: Ekaterina Fedorischeva, Polina Seregina, Tatiana Avdeeva
 This is a repository for an NLP course project. 
 
