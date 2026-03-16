@@ -4,3 +4,5 @@
 This is a repository for an NLP course project. 
 
 Оригинал или перевод: выявление переведённых текстов на русском языке как задача бинарной классификации на материале платформы Ficbook.group
+
+Data files (`origs_NER.rar` and `trans_NER.rar`) and the trained model are available [here](https://disk.360.yandex.ru/d/8gWRRL1SJn1N7A).
