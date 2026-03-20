@@ -53,4 +53,5 @@ Data files (`origs_NER.rar` and `trans_NER.rar`) and the trained models are avai
 
 ## Кто что делал
 Екатерина Федорищева: краулинг и NER
+
 Полина Серёгина и Татьяна Авдеева: дообучение моделей
